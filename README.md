@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @adns44
+- 👀 I’m interested in DevOps, programming easier scripts and MikroTik Router OS.
+- 🌱 I’m currently learning programming on university (IT engineer)
+- 💞️ I’m looking to collaborate on projects where I can work as an active person with my skills.
+- 📫 I have a website, but it is under development. I'll update this section later.
